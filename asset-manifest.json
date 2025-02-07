@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sitioWebPersonal/static/css/main.dc735a2d.css",
+    "main.js": "/sitioWebPersonal/static/js/main.c1fc169e.js",
+    "static/js/488.d070f4dc.chunk.js": "/sitioWebPersonal/static/js/488.d070f4dc.chunk.js",
+    "static/media/fa-solid-900.ttf": "/sitioWebPersonal/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/sitioWebPersonal/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/bootstrap-icons.woff?": "/sitioWebPersonal/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/sitioWebPersonal/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/bootstrap-icons.woff2?": "/sitioWebPersonal/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/sitioWebPersonal/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/sitioWebPersonal/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/sitioWebPersonal/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/sitioWebPersonal/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/sitioWebPersonal/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/sitioWebPersonal/index.html",
+    "main.dc735a2d.css.map": "/sitioWebPersonal/static/css/main.dc735a2d.css.map",
+    "main.c1fc169e.js.map": "/sitioWebPersonal/static/js/main.c1fc169e.js.map",
+    "488.d070f4dc.chunk.js.map": "/sitioWebPersonal/static/js/488.d070f4dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc735a2d.css",
+    "static/js/main.c1fc169e.js"
+  ]
+}
