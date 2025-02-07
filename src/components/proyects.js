@@ -16,7 +16,6 @@ const projects = [
       "El Sistema de Recursos Humanos es una aplicación web diseñada para gestionar de manera eficiente la información de los empleados dentro de una empresa. Proporciona funcionalidades clave como la visualización, edición, eliminación y registro de empleados, permitiendo a los administradores mantener actualizada la base de datos de personal.",
     image: `${process.env.PUBLIC_URL}/srh.png`,
     link: "https://github.com/scaliby2/sistema-de-recursos-humanos-web",
-    
   },
   {
     title: "Plantilla para Portafolio",
@@ -57,14 +56,16 @@ const Projects = () => {
           >
             <h2 className="fw-bold">{project.title}</h2>
             <p>{project.description}</p>
-            <a href={project.link} className="btn btn-dark px-4 py-2">
-              Link del proyecto
-            </a>
-            {project.page && (
-              <a href={project.page} className="btn btn-dark px-4 py-2 ms-3">
-                Ver en tiempo real
+            <div className="d-flex flex-column flex-sm-row flex-wrap gap-2">
+              <a href={project.link} className="btn btn-dark px-4 py-2">
+                Link del proyecto
               </a>
-            )}
+              {project.page && (
+                <a href={project.page} className="btn btn-dark px-4 py-2">
+                  Ver en tiempo real
+                </a>
+              )}
+            </div>
           </div>
         </div>
       ))}
