@@ -19,7 +19,7 @@ const Navbar = () => {
         {/* Contenedor para la imagen y el nombre */}
         <div className="d-flex align-items-center">
           <img
-            src="/perfil.jpg"
+            src={`${process.env.PUBLIC_URL}/perfil.jpg`}
             alt="Jose de Jesus Monroy"
             className="rounded-circle"
             style={{
