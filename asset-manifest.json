@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sitioWebPersonal/static/css/main.dc735a2d.css",
-    "main.js": "/sitioWebPersonal/static/js/main.c1fc169e.js",
+    "main.js": "/sitioWebPersonal/static/js/main.43322e32.js",
     "static/js/488.d070f4dc.chunk.js": "/sitioWebPersonal/static/js/488.d070f4dc.chunk.js",
     "static/media/fa-solid-900.ttf": "/sitioWebPersonal/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/sitioWebPersonal/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -15,11 +15,11 @@
     "static/media/fa-v4compatibility.woff2": "/sitioWebPersonal/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/sitioWebPersonal/index.html",
     "main.dc735a2d.css.map": "/sitioWebPersonal/static/css/main.dc735a2d.css.map",
-    "main.c1fc169e.js.map": "/sitioWebPersonal/static/js/main.c1fc169e.js.map",
+    "main.43322e32.js.map": "/sitioWebPersonal/static/js/main.43322e32.js.map",
     "488.d070f4dc.chunk.js.map": "/sitioWebPersonal/static/js/488.d070f4dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc735a2d.css",
-    "static/js/main.c1fc169e.js"
+    "static/js/main.43322e32.js"
   ]
 }
