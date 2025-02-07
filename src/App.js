@@ -7,12 +7,15 @@ import Contact from "./components/contact";
 import Start from "./components/start";
 import Footer from "./components/footer";
 import './App.css'; // 
+import "animate.css";
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 function App() {
   return (
     <Router>
       <div className="App">
+        <Start/>
         <Navbar />
         <Routes>
           <Route path="/start" element= {<Start/>}/> 
